@@ -21,12 +21,11 @@ https://321coucou.tistory.com/43
 
 <div align="center">
 
-## ✨**Welcome gumingii's GitHub**✨
+<h1>✨Welcome Sylvia's GitHub✨</h1><br/>
+  
+ ![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumingii&show_icons=true&theme=buefy)
 
-<br/>
-
-## Development tech
-
+ ## Development tech
   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=#FFFFFF)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -41,6 +40,7 @@ https://321coucou.tistory.com/43
 
 <br/>
 
+ 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gumingii%2Fgumingii&count_bg=%239B95D8&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gumingii)
 
